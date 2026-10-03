@@ -17,6 +17,10 @@
   <img src="https://img.shields.io/badge/school-42%20Rio-black" alt="School: 42 Rio">
 </p>
 
+<p align="center">
+  <img src="game-exec-print.png" alt="Game Execution">
+</p>
+
 ---
 
 ## About
